@@ -1,4 +1,4 @@
-# Arduino Repository
+# Laser Security System
 
 Fix LDR, and laser to the opposite of the LDR
 
